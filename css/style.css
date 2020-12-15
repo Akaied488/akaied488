@@ -1,0 +1,205 @@
+*{
+	margin:0;
+	padding:0;
+}
+/* header start */
+
+.header {
+  background: #4b4b4b;
+}
+.navbar {
+  padding-top: 15px !important;
+}
+.nav-item {
+  margin-left: 40px;
+  margin-bottom: 10px;
+}
+                         
+.nav-link {
+  color: white !important;
+  font-size: 12px !important;
+  display: unset !important;
+  padding: 0 0 5px 0 !important;
+}
+
+.navbar-brand img {
+  width: 40%;
+  margin-bottom: 7px;
+  margin-left: -15px;
+}
+
+.nav-link {
+  font-size: 19px !important;          
+}
+				
+.nav-link:hover {
+  background: #96b184;
+  padding: 5px 17px !important;
+  border-radius: 5px;
+  color:  greenyellow !important;
+  margin-right: 12px !important;
+  transition: .5s !important;
+}
+
+.fa-bars {
+  color: white;
+  font-size: 30px;
+}
+/* header stop */ 
+/* banar */
+.banar{
+	background:url(../img/barar1.jpg);
+	background-size:cover;
+	padding:150px;
+	background-repeat:no-repeat;
+	
+}
+
+.tip {
+  position: relative;
+  top: 155px;
+}
+.tip h3 {
+  color: white;
+  text-transform: uppercase;
+}
+.tip p {
+  color: white;
+  font-size: 18px;
+  width: 62%;
+}
+/* banar */
+/* section1 */
+
+.section1 {
+  background: gainsboro;
+}
+
+
+.pic {
+  width: 67% !important;
+}
+.tips-1 {
+  padding-top: 22px;
+}
+
+.card-img-top {
+  /*! width: 52% !important; */
+}
+.card-title {
+}
+.card-body {
+  position: relative !important;
+  right: 18px !important;
+}
+.tips-1 {
+  padding-top: 31px;
+}
+/* section1 */
+/* section2 */
+
+.sec2-top {
+  background: #dce9d5;
+}
+
+.part-1 {
+  padding-top: 27px;
+   padding-bottom: 47px;
+}
+
+.sec2-bottom {
+  background: black;
+  margin-top: -8px;
+}
+.card {
+  height: 100% !important;
+}
+
+
+/* section2 */
+/* section3 */
+
+.img-part img {
+  width: 92%;
+  padding-top: 70px;
+  padding-bottom: 40px;
+}
+
+.para-part {
+  padding-top: 66px;
+  padding-bottom: 21px;
+}
+
+
+.section3 {
+  background: #dce9d5;
+}                                    
+						
+.title3 h2 {
+  padding-bottom: 7px;
+  padding-top: 20px;
+}
+
+.para3 p {
+  font-size: 15px;
+}
+
+.bb {
+  margin-left: 17px;
+}
+.bb p {
+  width: 114%;
+  font-size: 15px !important;
+}
+/* section3 */
+/* section4 */
+
+.section4 {
+  background: azure;
+  padding-top: 18px;
+  padding-bottom: 18px;
+}
+
+.sec4parti ul {
+  list-style: none;
+}
+.sec4parti ul a {
+  color: black;
+}
+
+.sec4parti ul li a:hover {
+  text-decoration: none;
+  color: white;
+  background: black;
+  padding: 6px 6px;
+  border-radius: 5px;
+}
+.sec4parti ul li i {
+  font-size: 24px;
+  margin-right: 15px;
+}
+.fa-facebook {
+  color: #0074E8;
+}
+.fa-twitter {
+  color: #0074E8;
+}
+.fa-envelope-square {
+  color: brown;
+}
+.fa-instagram {
+  color: #FF4A3B;
+}
+/* section4 */
+/* footer */
+
+.footer {
+  background: #356617;
+  padding: 8px 0px;
+}
+.footerpara p {
+  color: white;
+  font-size: 18px;
+  margin-top: 13px;
+}
+/* footer */
